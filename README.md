@@ -1,5 +1,5 @@
-# Restaurant Project Definition
-## Link to github hosted Page : https://manalsolanki.github.io/Resturant-Project-/index.html
+# Restaurant Project
+## Link to github hosted Page : https://uditesh.github.io/Restaurant-project/index.html
 
 ### Team name:
 Team Sizzling
@@ -12,10 +12,10 @@ Our steakhouse provides the best steak in town. We serve steaks inspired by chin
 
 ## List of Team members:
 
-- Natasha Chambers (Team Leader)
-- Manal Solanki (Lead Designer)
+- Natasha Chambers
+- Manal Solanki
+- Uditesh Jha
 - Justin Abante 
-- Uditesh Jha 
 - Majdi Nawfal
 - Tingwei Xie
 
@@ -44,7 +44,7 @@ Our steakhouse provides the best steak in town. We serve steaks inspired by chin
 - Contests – Natasha Chambers
 
 
-## Some Images Link:
+## Images Link:
 https://docs.google.com/spreadsheets/d/1KLOdblXpAD1o-EUG_L2go6RR2LX7chunpIK0klawnR8/edit?usp=drive_web&ouid=104928228437290035749
 
 
