@@ -13,8 +13,8 @@ Our steakhouse provides the best steak in town. We serve steaks inspired by chin
 ## List of Team members:
 
 - Natasha Chambers
-- Manal Solanki
 - Uditesh Jha
+- Manal Solanki
 - Justin Abante 
 - Majdi Nawfal
 - Tingwei Xie
